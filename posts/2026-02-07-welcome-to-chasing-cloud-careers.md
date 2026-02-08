@@ -30,6 +30,6 @@ We're building learning paths covering:
 
 ## Get Started
 
-Head over to our [Learning Paths](/learn/) to start your journey, or follow us on [GitHub](https://github.com/chasingcloudcareersllc) and [LinkedIn](https://www.linkedin.com/company/chasingcloudcareersllc) to stay updated.
+Head over to our [Learning Paths](/learn/) to start your journey, or follow us on [GitHub](https://github.com/chasingcloudcareersllc) and [LinkedIn](https://www.linkedin.com/company/chasing-cloud-careers) to stay updated.
 
 Your cloud career starts here.
